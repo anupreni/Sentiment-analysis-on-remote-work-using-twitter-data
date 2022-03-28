@@ -8,7 +8,7 @@ Based on tweets containing work from home/ remote work/ virtual work text, the m
 
 How we built it
 
-We processed Twitter data and conducted data cleansing activities. The polarity and scores of the tweets were then analyzed using the NLTK package and a pretrained Vader model. We classified the emotions based on their polarity and scores. Challenges we ran into
+We processed and cleaned the Twitter data. The polarity and scores of the tweets were then analyzed using the NLTK package and a pretrained Vader model. We classified the emotions based on their polarity and scores. Challenges we ran into
 
 What we learned
 
